@@ -1,1 +1,7 @@
+## AWS Architecture Diagram
 
+The following diagram illustrates the highly available
+web application architecture deployed on AWS across
+two Availability Zones.
+
+![AWS High Availability Web Application Architecture](architecture/architecture.png)
