@@ -1,5 +1,7 @@
 # AWS High Availability Web Application
+## AWS Architecture Diagram
 
+![AWS High Availability Architecture](architecture/architecture.png)
 ## Project Overview
 
 Designed and deployed a highly available web application on Amazon Web Services (AWS) using EC2, VPC, IAM, S3, Elastic Load Balancer (ALB), Auto Scaling Group (ASG), and CloudWatch.
